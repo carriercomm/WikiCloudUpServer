@@ -1,0 +1,10 @@
+# The default CrowdFuse configuration
+
+resources:
+    directoryURL: 'http://sameas.org/json?uri='
+    dbPediaURL: 'http://dbpedia.org/resource/'
+
+parser:
+    freebaseAPIkey: '<insert your key here>'
+    freebaseServiceurl: 'https://www.googleapis.com/freebase/v1/topic'
+    
