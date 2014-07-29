@@ -1,14 +1,19 @@
 PF-Wiki-Cloud-Update-Server
 ======
 
-Install Tornado
+Installation
 --------
+- download files: https://github.com/pedak/WikiCloudUpServer/archive/master.zip
+- if not installed, install easy_install: sudo apt-get install python -setuptools
 - sudo easy_install tornado
 - sudo easy_install pyyaml
 - sudo easy_install rdflib
 - sudo easy_install simplejson
 
-...
+Start-Up
+-------
+- Go to project folder
+- run ./server.py
 
 
 Edit config file:
