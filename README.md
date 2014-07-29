@@ -4,16 +4,16 @@ PF-Wiki-Cloud-Update-Server
 Installation
 --------
 - download files: https://github.com/pedak/WikiCloudUpServer/archive/master.zip
-- if not installed, install easy_install: sudo apt-get install python -setuptools
-- sudo easy_install tornado
-- sudo easy_install pyyaml
-- sudo easy_install rdflib
-- sudo easy_install simplejson
+- if not installed, install easy_install: `sudo apt-get install python -setuptools`
+- `sudo easy_install tornado`
+- `sudo easy_install pyyaml`
+- `sudo easy_install rdflib`
+- `sudo easy_install simplejson`
 
 Start-Up
 -------
 - Go to project folder
-- run ./server.py
+- run `./server.py`
 
 
 Edit config file:
@@ -24,7 +24,7 @@ Edit config file:
 
 Start Server
 -----
-./server.py
+`./server.py`
 
 
 Enjoy to be informed on new updates on equivalent resources of the current Wikipedia article.
